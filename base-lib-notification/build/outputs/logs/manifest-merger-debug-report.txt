@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:2:1-9:12
+INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:2:1-9:12
+	package
+		ADDED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+		INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+		ADDED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:2:1-9:12
+		INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+		ADDED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:2:1-9:12
+		INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml:5:5-7:19
+uses-sdk
+INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+		ADDED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+		INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+		ADDED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
+		INJECTED from N:\KJ\TodayStepCounter-master\TodayStepCounter-master\base-lib-notification\src\main\AndroidManifest.xml
